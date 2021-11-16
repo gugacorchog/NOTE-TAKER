@@ -7,10 +7,10 @@
 
    
 # URL Link TO HEROKU   
-[CLICK HERE](https://note-takergvas.herokuapp.com/)
+[** CLICK HERE **](https://note-takergvas.herokuapp.com/)
 
 
-### Demo
+# Demo
 
 
 
@@ -26,7 +26,7 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 ## Table of Contents 
 
 - [Installation](#installation)
-- [Usage](#usage)
+- [Technologies](#Technologies)
 - [Contributing](#contributing)
 - [Question](#question) 
  
@@ -39,20 +39,17 @@ Npm install inquirer (package Json)
 
 Npm install express
 
-## Usage
+## Technologies
 
-Run the following command at the root of your project and answer the prompted questions:
-node index.js 
-WHEN you see message DONE
-A html page will be created in the folder team/teamList.html 
+HTML
+Javascript
+node.js
+express.js
 
 ## Contributing
 Douglas Chan 
 
 
-Open the termminal in the package.js and run the command:
-
-Npm run test 
 
 ## Question
 Questions? Let me know:  [gugacorchog@gmail.com]
