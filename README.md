@@ -50,7 +50,7 @@ Npm install express
 
 ## LICENSE
 
-### MIT
+MIT
 
 ## Contributing
 Douglas Chan 
