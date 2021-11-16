@@ -29,7 +29,9 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 - [Technologies](#Technologies)
 - [Contributing](#contributing)
 - [Question](#question) 
- 
+- [LICENSE](#License) 
+
+
 
 ## Installation
 
@@ -45,6 +47,10 @@ Npm install express
 #### Javascript
 #### node.js
 #### express.js
+
+## LICENSE
+
+### MIT
 
 ## Contributing
 Douglas Chan 
