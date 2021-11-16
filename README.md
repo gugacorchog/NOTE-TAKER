@@ -7,8 +7,8 @@
 
    
 # URL Link    
+[DEPLOYED TO HEROKU](https://note-takergvas.herokuapp.com/notes)
 
-https://note-takergvas.herokuapp.com/notes
 
 ### Demo
 
