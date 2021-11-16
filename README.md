@@ -13,12 +13,8 @@
 ### Demo
 
 
-?
 
-
-Screenshot:
-
-![screenshot](https://github.com/gugacorchog/Team-Profile-Generator/blob/main/assets/Screenshot1.jpg)
+https://user-images.githubusercontent.com/87793995/141997696-aed15a05-86df-45e1-9ddb-5c652db58d4a.mp4
 
 
 ## Description 
@@ -41,7 +37,7 @@ Npm init -y
 
 Npm install inquirer (package Json)
 
-
+Npm install express
 
 ## Usage
 
