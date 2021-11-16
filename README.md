@@ -5,9 +5,6 @@
 ![Size](https://img.shields.io/github/repo-size/gugacorchog/NOTE-TAKER)
 ![Last-Commit](https://img.shields.io/github/last-commit/gugacorchog/NOTE-TAKER)
 
-
-
-#  ** TEAM PROFILE GENERATOR **
    
 # URL Link    
 
@@ -23,11 +20,6 @@ Screenshot:
 
 ![screenshot](https://github.com/gugacorchog/Team-Profile-Generator/blob/main/assets/Screenshot1.jpg)
 
-![screenshot](https://github.com/gugacorchog/Team-Profile-Generator/blob/main/assets/screenshot2.jpg)
-
-![screenshot](https://github.com/gugacorchog/Team-Profile-Generator/blob/main/assets/screenshot3.jpg)
-
-![screenshot](https://github.com/gugacorchog/Team-Profile-Generator/blob/main/assets/screenshot4.jpg)
 
 ## Description 
 
