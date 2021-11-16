@@ -6,8 +6,8 @@
 ![Last-Commit](https://img.shields.io/github/last-commit/gugacorchog/NOTE-TAKER)
 
    
-# URL Link    
-[DEPLOYED TO HEROKU](https://note-takergvas.herokuapp.com/notes)
+# URL Link TO HEROKU   
+[CLICK HERE](https://note-takergvas.herokuapp.com/)
 
 
 ### Demo
